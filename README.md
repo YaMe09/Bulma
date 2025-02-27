@@ -1,10 +1,10 @@
 # Bulma
 ## Beskrivelse
-Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færdigheder. Portfolioen er bygget med HTML og Bulma CSS framework for at skabe et responsivt og moderne design.
+Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færdigheder. Portfolioen er bygget med HTML og Bulma CSS framework og Javascript for at skabe et responsivt og moderne design.
 ### Frontend-værktøjer
 - HTML
-- CSS
 - Bulma CSS Framework
+- Javascript
 #### Installation
 For at køre dette projekt lokalt, skal du følge disse trin:
 git clone https://github.com/YaMe09/Bulma/
