@@ -7,9 +7,9 @@ Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færd
 - Bulma CSS Framework
 #### Installation
 For at køre dette projekt lokalt, skal du følge disse trin:
-git clone https://github.com/dit-brugernavn/dit-repo-navn.git
+git clone https://github.com/YaMe09/Bulma/
 Naviger til mappen:
-cd dit-repo-navn
+cd YaMe09/Bulma/
 ##### Trin 5: Brug
 Når du åbner portfolioen, kan du navigere rundt på hjemmesiden enten ved at bruge navigationen eller ved at scrolle ned. Her er en oversigt over, hvad du kan finde:
 
